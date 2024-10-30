@@ -7,8 +7,8 @@ import gc
 import socket
 
 # Configurações do bot do Telegram
-TOKEN = '8056710112:AAGlnoLuwOZE5acNROCg_7LGOqpYldNbCtg'
-CHAT_ID = '2109894552'
+TOKEN = ''
+CHAT_ID = ''
 URL = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
 
 # Função para enviar mensagem ao Telegram
