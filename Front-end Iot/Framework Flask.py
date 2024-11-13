@@ -1,10 +1,13 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)  
 
 capture_running = True  
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route('/status_capture', methods=['GET'])
 def status_capture():
