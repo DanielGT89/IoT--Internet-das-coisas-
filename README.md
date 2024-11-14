@@ -5,9 +5,11 @@
 ![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=for-the-badge&logo=python)
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-0088cc?style=for-the-badge&logo=telegram)
+![API Local](https://img.shields.io/badge/-API%20Local-4caf50?style=for-the-badge&logo=api)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 ![CORS](https://img.shields.io/badge/-CORS-ff6600?style=for-the-badge&logo=security)
 ![Sensor de Presença](https://img.shields.io/badge/-Sensor%20de%20Presen%C3%A7a-0078D4?style=for-the-badge&logo=sensors)
+
 
 
 
