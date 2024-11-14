@@ -2,6 +2,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![MicroPython](https://img.shields.io/badge/-MicroPython-000000?style=for-the-badge&logo=python)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
+![Telegram API](https://img.shields.io/badge/-Telegram%20API-0088cc?style=for-the-badge&logo=telegram)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+
+
+
+
 
 
 Monitoramento de Presença e Notificações via IoT
